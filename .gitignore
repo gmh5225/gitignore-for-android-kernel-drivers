@@ -52,3 +52,12 @@ Thumbs.db
 *.o
 *.o.d
 *.cmd
+*.ko
+*.mod*
+*.order
+*.symvers
+
+#llvm files
+llvmcache*
+
+
