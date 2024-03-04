@@ -57,7 +57,19 @@ Thumbs.db
 *.order
 *.symvers
 
-#llvm files
+# llvm files
 llvmcache*
 
+# clangd
+.cache/clangd
+
+# CMake
+compile_commands.json
+
+# IDA stubs
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
 
